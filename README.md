@@ -9,7 +9,7 @@ Some methods use the SOAP protocol:<br/>
 For example => add user, remove user, extraction of users log, etc.<br/>
 <br/>
 And some methods use the UDP protocol:<br/>
-For example => getDeviceName, free size, restart, unlock the door, etc.<br/>
+For example => getDeviceName, getSerialNumber, free size, restart, unlock the door, etc.<br/>
 <br/>
 The implementation of the class UdpZkClient.php is the same implementation of this class in TADZKLib.php in this repositorie https://github.com/cobisja/tad-php <br/>
 Special thanks to Jorge Cobis !<br/>
