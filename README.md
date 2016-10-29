@@ -11,7 +11,7 @@ For example => add user, remove user, extraction of users log, etc.<br/>
 And some methods use the UDP protocol:<br/>
 For example => getDeviceName, getSerialNumber, free size, restart, unlock the door, etc.<br/>
 <br/>
-The implementation of the class UdpZkClient.php is the same implementation of this class in TADZKLib.php in this repositorie https://github.com/cobisja/tad-php <br/>
+The implementation of the class UdpZkClient.php is the same implementation of this class in TADZKLib.php in this repositorie : <a href="https://github.com/cobisja/tad-php">tad-php</a> <br/>
 Special thanks to Jorge Cobis !<br/>
 
 #Demo
