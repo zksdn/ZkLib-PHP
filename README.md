@@ -16,6 +16,6 @@ Special thanks to Jorge Cobis !<br/>
 
 #Demo
 
-> $host = 0.0.0.0;<br/>
+> $host = "0.0.0.0";<br/>
 > $zklib = new ZkLib($host);<br/>
 > $serial_number = $zklib->getSerialNumber();<br/>
